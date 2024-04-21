@@ -34,5 +34,3 @@ This project is a Bluetooth sniffer program designed to track the distance of a 
 - Neopixel LEDs display a visual representation of the RSSI, indicating the proximity of the connected Bluetooth device.
 - Pressing both buttons on the Bluefruit simultaneously stops the scan and turns off the Neopixel LEDs. Pressing them again stops the program. If you do not press the buttons a second time, it will find the next nearest device.
 ---
-
-This README provides an overview of the Bluefruit BS project, its hardware/software requirements, and instructions for setup and usage. Customize and enhance the program as needed for specific applications.
